@@ -9,5 +9,5 @@ math: false
 
 
 <div class="spotlight" data-src="fiona1729.com/assets/img/portfolio/IMG_5885~2.jpg">
-    <img src=""fiona1729.com/assets/img/portfolio/IMG_5885~2.jpg"">
+    <img src=""fiona1729.com/assets/img/portfolio/IMG_5885~2.jpg">
 </div>
