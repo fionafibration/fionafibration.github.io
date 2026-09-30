@@ -15,6 +15,9 @@ I also enjoy formal methods in software, mostly in the form of category theory &
 
 In my time outside mathematics I enjoy hiking, cycling, and American Sign Language. I have a strong interest in psychopharmacology & mental health advocacy, as well as [harm reduction](https://www.samhsa.gov/find-help/harm-reduction). 
 
+## Publications
+- [Symmetric List Objects](https://hal.science/hal-05703652), joint work with Vikraman Choudhury & Rin Liu
+
 ## Talks
 - *The Eilenberg-Steenrod Axioms and Generalised (Co)homology Theory* at Adams Blue Book seminar with University of Chicago
 - *Topological Quantum Field Theories and Frobenius Algebras* at CU Boulder SPS Seminar
